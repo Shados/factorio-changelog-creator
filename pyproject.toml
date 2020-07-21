@@ -25,5 +25,5 @@ pylint = "^2.4.4"
 factorio-changelog-creator = "factorio_changelog_creator.cli:main"
 
 [build-system]
-requires = ["poetry>=0.12"]
+requires = ["poetry>=1.0.5"]
 build-backend = "poetry.masonry.api"
